@@ -8,5 +8,5 @@
 5. 项目的master文件夹为主要的js文件路径
 6. view文件夹为相关页面的html页面
 7. 项目的css样式大多为外嵌式，部分使用了sass语法
-8. 项目上传代码到coding需要在Git_NTP_APQTS_Code_Web_AGBD_2.0/文件夹里，打包编译操作需要在Git_NTP_APQTS_Code_Web_AGBD_2.0/master/
+8. 项目上传代码到coding需要在Git_NTP_APQTS_Code_Web_AGBD_2.0/文件夹里，打包编译操作需要在Git_NTP_APQTS_Code_Web_AGBD_2.0/master/文件夹中
 
